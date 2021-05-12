@@ -1,0 +1,8 @@
+C:\Users\brubi\Desktop\school\Game\Game\x64\Debug\Game.vcxproj.CopyComplete
+C:\Users\brubi\Desktop\school\Game\Game\x64\Debug\Game.exe
+C:\Users\brubi\Desktop\school\Game\Game\x64\Debug\Game.pdb
+C:\Users\brubi\Desktop\school\Game\Game\x64\Debug\SDL2d.dll
+C:\Users\brubi\Desktop\schools\Game\Game\x64\Debug\Game.vcxproj.CopyComplete
+C:\Users\brubi\Desktop\schools\Game\Game\x64\Debug\Game.exe
+C:\Users\brubi\Desktop\schools\Game\Game\x64\Debug\Game.pdb
+C:\Users\brubi\Desktop\schools\Game\Game\x64\Debug\SDL2d.dll

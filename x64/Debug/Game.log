@@ -1,0 +1,6 @@
+﻿  game.c
+C:\Users\brubi\Desktop\schools\Game\Game\game.c(62,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\brubi\Desktop\schools\Game\Game\game.c(200,41): warning C4133: '!=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\brubi\Desktop\schools\Game\Game\game.c(206,30): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\brubi\Desktop\schools\Game\Game\game.c(216,30): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+  Game.vcxproj -> C:\Users\brubi\Desktop\schools\Game\Game\x64\Debug\Game.exe
